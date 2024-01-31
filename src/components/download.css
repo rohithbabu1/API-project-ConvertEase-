@@ -1,0 +1,57 @@
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+   
+   .social-btns {
+
+     width: 45%;
+     max-width: 160px;
+     color: #fff;
+    
+     text-align: left;
+     border-radius: 5px;
+     text-decoration: none;
+     font-family: "Lucida Grande", sans-serif;
+     font-size: 10px;
+     text-transform: uppercase;
+    background-color: #101010;
+     
+     
+      
+     }
+     i {
+      width: 20%;
+      text-align: center;
+      font-size: 28px;
+      margin-right: 7px;
+      list-style: none;
+      color: white;
+     }
+     a {
+        text-decoration: none;
+        color: white;
+     }
+     .big-txt {
+      font-size: 17px;
+      text-transform: capitalize;
+     }
+    
+     .download_main{
+      background-color: #4169E1;
+      padding: 20px;
+      color: white;
+      border-radius: 20px;
+     }
+   /* .backimg{
+      background-image: url('public/banner-01.svg');
+      background-repeat: no-repeat, repeat;
+   } */
+   .downloadimgae{
+      height: 250px;
+   }
+   .qr{
+      height: 70px;
+   }
+   /* <a href="https://storyset.com/web">Web illustrations by Storyset</a> */

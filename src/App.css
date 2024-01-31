@@ -1,0 +1,27 @@
+/* 
+ .banner{
+    background-image: url('public/banner-01.svg');
+    background-repeat: no-repeat, repeat;
+    height: 100%;
+    width: 100%;
+ } */
+/*
+<a href="https://storyset.com/money">Money illustrations by Storyset</a> */
+.banner_img{
+    height: 450px;
+
+}
+.check a{
+    text-decoration: none;
+}
+.check{
+    color: #4169E1;
+}
+.ico{
+    height: 100px;
+}
+@media only screen and (max-width: 767px) {
+    body {
+      text-align: center;
+    }
+  }

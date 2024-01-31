@@ -1,0 +1,6 @@
+.navbar-collapse{
+    flex-grow: 0 !important;
+}
+.colo{
+    background-color: rgb(244, 244, 244);
+}
